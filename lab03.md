@@ -1,6 +1,6 @@
 ---
-layout：default
-title:我最喜欢的电影--黑客帝国
+layout: default
+title: 我最喜欢的电影--黑客帝国
 ======
 ---
 # 虚拟，真实，哪个，才是“真”
