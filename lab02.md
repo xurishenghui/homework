@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ---
 layout: default
 title: html5游戏制作Ghost shoot
@@ -13,19 +12,3 @@ title: html5游戏制作Ghost shoot
 * 正如今日construct 2的学习，如若没有教程的帮助，我又怎么可能能在短时间内自我摸索出一条正确的道路。
 * 故而善于运用现有资源，亦是成功之路。
 ![动画](https://github.com/xurishenghui/swi-homework/blob/gh-pages/h.gif?raw=true)
-=======
----
-layout: default
-title: html5游戏制作Ghost shoot
-======
----
-# Ghost shoot游戏制作感言
-
-* 人生第一次制作自己的游戏，虽然并不是很难，但多少有点收获
-* 任何制作都有套路可言，难就难在难以抓住套路，而一旦入门，便也就轻车熟路，所以我们所需要的往往不是对新事物的恐惧，而是对新事物未解的好奇，因好奇，我们就能掌握规律。
-* 故入门之时往往不是自己钻研，而是要寻求过往者的帮助，这不是捷径，而是一条必经之路，正如我们不可能一个人建成高楼大厦，我们也不可能仅凭一己之力建立对新事物的详尽解释。因而多求助于外人，不仅是压缩学习时间的问题，更是掌握新知的必备良药。
-![图片](https://steamcdn-a.akamaihd.net/steam/apps/227240/header.jpg?t=1447357134)
-* 正如今日construct 2的学习，如若没有教程的帮助，我又怎么可能能在短时间内自我摸索出一条正确的道路。
-* 故而善于运用现有资源，亦是成功之路。
-![动画](https://github.com/xurishenghui/swi-homework/blob/gh-pages/h.gif?raw=true)
->>>>>>> 6469a4ab0d43c873f1ee1047b6f2a2de63c0b845
