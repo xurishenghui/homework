@@ -10,19 +10,22 @@ title: 自动驾驶伦理问题
 * 这种情况虽然不会时有发生，但其一旦发生如何抉择，就是自动驾驶不可避免的难题。更何况，此类事件并不是未曾听闻。
 
 * 北京时间20日早间消息，Uber公司在美国亚利桑那州坦佩市进行无人驾驶车辆测试。但在测试过程中却发生了意外，自动驾驶车辆撞到了一位女行人。伤者送往医院救治后，因伤势过重不幸身亡。这是全球第一起自动驾驶车辆造成行人死亡案件。事故发生时，车辆处在自动驾驶状态，车上有一名操作员。Uber已经停止所有类似测试，表示会配合事故调查。这并不是Uber的自动驾驶车辆的第一次事故了。在大约一年前，一辆处于自动驾驶状态的Uber的小汽车就与另一辆车相撞并侧翻。这起事件中没有人伤亡。(来源：http://k.sina.com.cn/article_1658941163_p62e16eeb02700541x.html)
-![图片](http://a3.qpic.cn/psb?/V135Vm5X0FNlv2/2zEGz17TBjQGDDi6gZ1Z41cwBfmeUVUbNKnVwbm5q1Q!/m/dFIBAAAAAAAAnull&bo=EwG3AAAAAAARB5U!&rf=photolist&t=5)
+
+* ![图片](http://a3.qpic.cn/psb?/V135Vm5X0FNlv2/2zEGz17TBjQGDDi6gZ1Z41cwBfmeUVUbNKnVwbm5q1Q!/m/dFIBAAAAAAAAnull&bo=EwG3AAAAAAARB5U!&rf=photolist&t=5)
 
 * 法国心理学教授Jean-Francois Bonnefon曾经就此类问题对2000名受访者做过一个调查，调研结果显示，76%的人想要让机器做出伤害最小的决策，但与此同时，81%的人倾向于购买一辆保护自己的车。换句话说，以道德的层面大家都希望损失最小但从功利的层面又没有人希望损失的会是自己。(来源：http://www.sohu.com/a/225874294_455835)
 
 * 前不久，谷歌自动驾驶汽车之父 Sebastian Thrun 在接受彭博社采访时表示，自动驾驶汽车在设计之初就是为了避免事故发生，不过如果真的避无可避，它会选择牺牲“更小”的事物，但当这个更小的事物变成孩子时，就又有了不一样的意义。因而，如何解决这个问题，就成为制约自动驾驶发展的主要因素。(来源：https://www.leiphone.com/news/201711/zXQnpI3rSv2HEB7h.html)
 
 * 被制造商和供应商们忽视的问题其实在哲学上有对应问题，它就是所谓的“电车难题”，而无论你拉不拉扳道器，疾驰的电车都会压死人。
-![图片](http://a2.qpic.cn/psb?/V135Vm5X0FNlv2/vpcD4u7pEmExMM*SQ8bbJZ4n9lElr1QS6*JficvMegg!/c/dDUBAAAAAAAA&ek=1&kp=1&pt=0&bo=AwHDAAAAAAARF.E!&tl=3&vuin=2762935451&tm=1542877200&sce=60-2-2&rf=0-0)
+
+* ![图片](http://a2.qpic.cn/psb?/V135Vm5X0FNlv2/vpcD4u7pEmExMM*SQ8bbJZ4n9lElr1QS6*JficvMegg!/c/dDUBAAAAAAAA&ek=1&kp=1&pt=0&bo=AwHDAAAAAAARF.E!&tl=3&vuin=2762935451&tm=1542877200&sce=60-2-2&rf=0-0)
 
 * 如果有什么不同的话，那就是自动驶汽车几乎可以完全避免这种事情的发生，毕竟它离得很远就能“嗅探”到异样的感觉，而人类司机大多数会采用急刹车来躲避危险。
 
 * 这就是自动驾驶汽车的优势，它们的刹车和传感器都有冗余，能尽早探测到危险并作出适当的反应。
-![图片](http://a3.qpic.cn/psb?/V135Vm5X0FNlv2/PJH*cOT*1cRrM*oRk4OqAbSbdDRh7.Bj*Rd0OUAh5X4!/c/dDYBAAAAAAAA&ek=1&kp=1&pt=0&bo=MAGmAAAAAAARF7c!&tl=3&vuin=2762935451&tm=1542877200&sce=60-2-2&rf=0-0)
+
+* ![图片](http://a3.qpic.cn/psb?/V135Vm5X0FNlv2/PJH*cOT*1cRrM*oRk4OqAbSbdDRh7.Bj*Rd0OUAh5X4!/c/dDYBAAAAAAAA&ek=1&kp=1&pt=0&bo=MAGmAAAAAAARF7c!&tl=3&vuin=2762935451&tm=1542877200&sce=60-2-2&rf=0-0)
 
 * 因而，考虑此类问题倒不如考虑如何更好的提高自动驾驶技术预测危险的能力，毕竟自动驾驶可以十分的智能。
 (来源：https://www.leiphone.com/news/201711/zXQnpI3rSv2HEB7h.html)
