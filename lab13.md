@@ -25,6 +25,6 @@ title: 贪吃蛇
     输出 Game over!!!
   else 
     继续运行    
-* 详细请看snake_move.c
+* 详细请看https://github.com/xurishenghui/swi-homework/blob/gh-pages/snake_eat.c
 
-* 详细请看snake_eat.c 
+* 详细请看https://github.com/xurishenghui/swi-homework/blob/gh-pages/snake_move.c
